@@ -58,11 +58,6 @@ The CNN architecture is defined as follows:
     * Input features: 50
     * Output features: 10 (one for each digit class)
 
-
-
-[Image of a Convolutional Neural Network architecture]
-
-
 ### Training Details
 
 * **Optimizer**: Adam (`lr=0.001`)
@@ -146,7 +141,3 @@ This project serves as a solid baseline. Here are some ways it could be extended
 * **Regularization**: Add techniques like Batch Normalization to prevent overfitting and stabilize training.
 
 ---
-
-## License 📄
-
-This project is open-source. Please add your preferred license (e.g., MIT, Apache 2.0).
